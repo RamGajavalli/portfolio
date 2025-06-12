@@ -1,4 +1,4 @@
-# [Hello, world! 👋 I'm Manikanta Sairam Gajavalli]
+# Hello, world! 👋 I'm Manikanta Sairam Gajavalli
 This is my portfolio website. Just to put everything on a single site.
 
 ## Checkout the website [HERE](https://ramgajavalli.github.io/portfolio)
